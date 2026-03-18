@@ -72,5 +72,5 @@ Atuo como ilustradora digital e criadora de conteúdo, explorando o universo VTu
 
 | Contribuições de cobrinha no último ano |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+| ![snakkeee](https://github.com/user-attachments/assets/LarissaBFonseca) | 
 
