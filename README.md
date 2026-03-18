@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👩‍💻 Larissa Beatriz
 
-<!--
-**LarissaBFonseca/LarissaBFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨✨ Ilustradora digital | 🎥 Streamer | 🧠 Vtuber | 📱 Influenciadora  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou uma criadora multidisciplinar que une **arte, tecnologia e entretenimento**.  
+Atuo como ilustradora digital e criadora de conteúdo, explorando o universo VTuber e streaming ao vivo com uma abordagem criativa e imersiva.
+
+💡 Apaixonada por transformar ideias em experiências visuais  
+📡 Conectando arte + tech + comunidade  
+🎮 Explorando o mundo digital em tempo real  
+
+---
+
+## 📊 Tech Stack
+
+💻 **Desenvolvimento & Ferramentas**
+
+- 🧱 HTML  
+- 🖥️ Visual Studio  
+- 📦 VirtualBox  
+- 🎥 OBS Studio  
+- 📡 Streamlabs  
+
+---
+
+## 🧠 Skills & Interesses
+
+- 🎨 Ilustração Digital (arte autoral & personagens)  
+- 🧑‍🎤 Criação de Persona VTuber  
+- 🎥 Produção de Conteúdo ao Vivo  
+- 🎛️ Setup e Otimização de Stream  
+- 🌐 Criação de experiências visuais na web  
+
+
+---
+
+## 🌐 Universo Criativo
+
+🧬 Misturando:
+
+- Arte digital + cultura online  
+- Tecnologia + identidade virtual  
+- Conteúdo + interatividade  
+
+---
+
+## ⚡ Atualmente
+
+- 🔴 Fazendo streams e criando conteúdo ao vivo  
+- 🎨 Produzindo novas ilustrações  
+- 🤖 Evoluindo minha persona VTuber  
+- 🛠️ Melhorando meu setup e workflow  
+
+---
+
+## 🤝 Vamos conectar?
+
+💬 Sempre aberta a colaborações criativas, projetos digitais e ideias inovadoras!
+
+---
+
+⭐ *"Transformando pixels em personalidade e código em experiência."*
