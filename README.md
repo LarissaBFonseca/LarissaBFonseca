@@ -64,3 +64,13 @@ Atuo como ilustradora digital e criadora de conteúdo, explorando o universo VTu
 ---
 
 ⭐ *"Transformando pixels em personalidade e código em experiência."*
+
+</div>
+
+<br>
+<br>
+
+| Contribuições de cobrinha no último ano |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
