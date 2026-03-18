@@ -1,5 +1,5 @@
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Larissa%20Beatriz&fontSize=50&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:8A004F,50:D1007A,100:FF4DCC&height=250&section=header&text=Larissa%20Beatriz&fontSize=50&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
@@ -27,6 +27,20 @@ Atuo como ilustradora digital e criadora de conteúdo, explorando o universo VTu
 - 📦 VirtualBox  
 - 🎥 OBS Studio  
 - 📡 Streamlabs  
+
+</div>
+
+<h2 align="center">
+ </h2>
+
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 
 ---
 
@@ -77,5 +91,7 @@ Atuo como ilustradora digital e criadora de conteúdo, explorando o universo VTu
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
-
-
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:8A004F,50:D1007A,100:FF4DCC&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
