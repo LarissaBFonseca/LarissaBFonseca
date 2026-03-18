@@ -3,6 +3,10 @@
   alt="header"/>
 </div>
 
+<h2 align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Seja+Bem+vindo+a+minha+página+no+Github!;Me+chamo+Larissa+Beatriz!.)](https://git.io/typing-svg)
+
 🎨✨ Ilustradora digital | 🎥 Streamer | 🧠 Vtuber | 📱 Influenciadora  
 
 ---
@@ -89,7 +93,7 @@ Atuo como ilustradora digital e criadora de conteúdo, explorando o universo VTu
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+| ![LarissaBFonseca](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |  
 
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:8A004F,50:D1007A,100:FF4DCC&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
