@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?color=0:8A004F,50:D1007A,100:FF4DCC&height=250&section=header&text=Larissa%20Beatriz&fontSize=50&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
-
 <h2 align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Seja+Bem+vindo+a+minha+página+no+Github!;Me+chamo+Larissa+Beatriz!.)](https://git.io/typing-svg)
